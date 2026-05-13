@@ -3,4 +3,5 @@ project(Hello_world)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Hello_world main.cpp)
+add_executable(run_hello "Hello World.cpp")
+add_executable(run_recipe "recipe.cpp")
