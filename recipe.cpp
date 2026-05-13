@@ -19,3 +19,4 @@ int main() {
     << " to cool completely." << std::endl;
 
     return 0;
+}
